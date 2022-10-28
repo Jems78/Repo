@@ -1,1 +1,10 @@
-/* Feuille de styles CSS */
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #fff;
+    color: #333;
+}
