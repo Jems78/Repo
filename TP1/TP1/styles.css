@@ -11,11 +11,10 @@ tfoot {
 
 body
 {
-    background-color: #eeeee;
+    background-color: #eeeeee;
 }
 /* ci dessous appelle classe*/
-.test
-{
+.test{
     background: white;
     width: 600px; 
     margin: auto;
