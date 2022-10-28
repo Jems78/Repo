@@ -20,8 +20,18 @@ body
     margin: auto;
     padding: 32px;
     font-family: 'sans-serif';
+    text-align: justify;
 }
 .LEGO{
     font-style: italic;
     color: #007bff;
+}
+a{
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+
+    text-decoration: underline;
 }
