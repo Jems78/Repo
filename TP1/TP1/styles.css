@@ -8,3 +8,16 @@ tfoot {
     background-color: #fff;
     color: #333;
 }
+
+body
+{
+    background-color: #eeeee;
+}
+/* ci dessous appelle classe*/
+.test
+{
+    background: white;
+    width: 600px; 
+    margin: auto;
+    padding: 32px;
+}
