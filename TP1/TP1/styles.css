@@ -42,3 +42,8 @@ a:hover{
     font-size: 12px;
     text-align: right;
 }
+#p1{
+text-align: center;
+align-items: center;
+align-self:center
+}
